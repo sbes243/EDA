@@ -1,0 +1,12 @@
+﻿  image.cpp
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(156,36): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(166,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(166,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(166,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(168,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(168,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sebas\source\repos\kmean2\kmean2\image.cpp(168,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  kmean2.cpp
+C:\Users\sebas\source\repos\kmean2\kmean2\kmean2.cpp(19,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  kmean2.vcxproj -> C:\Users\sebas\source\repos\kmean2\x64\Debug\kmean2.exe
